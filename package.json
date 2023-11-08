@@ -1,0 +1,14 @@
+{
+  "name": "func-line_reader",
+  "version": "1.0.0",
+  "description": "Lector de fitxer csv linia a linia i pas a json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martí Pintó",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
